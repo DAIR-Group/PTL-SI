@@ -4,12 +4,12 @@
 
 ## Requirements & Installation
 This package has the following requirements:
-- `numpy`(https://numpy.org/doc/stable/)
-- `mpmath`(https://mpmath.org/)
-- `skglm`(https://contrib.scikit-learn.org/skglm/)
-- `scipy`(https://docs.scipy.org/doc/)
-- `matplotlib`(https://matplotlib.org/)
-- `statsmodels`(https://www.statsmodels.org/stable/index.html)
+- **[numpy](https://numpy.org/doc/stable/)**
+- **[mpmath](https://mpmath.org/)** 
+- **[skglm](https://contrib.scikit-learn.org/skglm/)**
+- **[scipy](https://docs.scipy.org/doc/)** 
+- **[matplotlib](https://matplotlib.org/)** 
+- **[statsmodels](https://www.statsmodels.org/stable/index.html)**
 
 
 This package can be installed using pip:
